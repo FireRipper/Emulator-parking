@@ -1,0 +1,27 @@
+E:\Для себя весь хлам\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Для себя весь хлам\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Для себя весь хлам\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Для себя весь хлам\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Для себя весь хлам\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Для себя весь хлам\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Для себя весь хлам\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Для себя весь хлам\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Для себя весь хлам\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Для себя весь хлам\Visual Studio 2012\Projects\Эмулятор Стоянки\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Для себя весь хлам\Visual Studio 2012\Projects\Эмулятор Стоянки\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Для себя весь хлам\Visual Studio 2012\Projects\Эмулятор Стоянки\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Для себя весь хлам\Visual Studio 2012\Projects\Эмулятор Стоянки\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Для себя весь хлам\Visual Studio 2012\Projects\Эмулятор Стоянки\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Для себя весь хлам\Visual Studio 2012\Projects\Эмулятор Стоянки\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Для себя весь хлам\Visual Studio 2012\Projects\Эмулятор Стоянки\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Для себя весь хлам\Visual Studio 2012\Projects\Эмулятор Стоянки\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Для себя весь хлам\Visual Studio 2012\Projects\Эмулятор Стоянки\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Для себя весь хлам\Visual Studio 2012\Projects\Эмулятор Стоянки (пробую упростить)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Для себя весь хлам\Visual Studio 2012\Projects\Эмулятор Стоянки (пробую упростить)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Для себя весь хлам\Visual Studio 2012\Projects\Эмулятор Стоянки (пробую упростить)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Для себя весь хлам\Visual Studio 2012\Projects\Эмулятор Стоянки (пробую упростить)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Для себя весь хлам\Visual Studio 2012\Projects\Эмулятор Стоянки (пробую упростить)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Для себя весь хлам\Visual Studio 2012\Projects\Эмулятор Стоянки (пробую упростить)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Для себя весь хлам\Visual Studio 2012\Projects\Эмулятор Стоянки (пробую упростить)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Для себя весь хлам\Visual Studio 2012\Projects\Эмулятор Стоянки (пробую упростить)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Для себя весь хлам\Visual Studio 2012\Projects\Эмулятор Стоянки (пробую упростить)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
