@@ -1,3 +1,3 @@
 # Emulator-parking
 
-A program for parking emulation was created.
+Program simulator parking, car registration, time and date of entry and exit. Simulation of accidents at the parking lot.
